@@ -1,0 +1,13 @@
+fastapi
+torch
+torchvision
+ultralytics
+simple-lama-inpainting
+opencv-python-headless
+Pillow
+numpy
+aiofiles
+python-multipart
+moviepy
+imageio[ffmpeg]
+uvicorn[standard]
